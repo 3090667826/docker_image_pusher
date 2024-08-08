@@ -1,5 +1,5 @@
 mysql:8.0
-elasticsearch
+elasticsearch:7.17.23
 apache/seata-server
 bitnami/minio
 bitnami/rabbitmq
